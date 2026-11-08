@@ -72,4 +72,4 @@
 
 - 本轮为 UI 原型，交易、报价、撮合均为本地 mock 数据，未接后端。
 - TradeX 源码不在当前环境，行情/资讯以 TradeX 风格（深色终端）重绘，后续可接入真实 TradeX 组件。
-- Figma 账号为 Starter 免费套餐，MCP 存在调用频率限制，截图导出仅覆盖 7 屏（其余请在 Figma 内查看）。
+- 全部 13 屏截图已导出至 `design/screenshots/`（`01-home` ~ `13-rfq-detail`，1440×900）。Figma 账号已升级为 Education/Student 套餐，解除 Starter 的 MCP 调用频率限制。
